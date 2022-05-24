@@ -8,4 +8,4 @@ This is a simple script that allows you to login to a discord account without th
 4. Add your authtoken instead of "PASTE TOKEN HERE"
 5. Hit enter
 6. Wait for it...
-7. BOOM! Your in!
+7. BOOM! You're in!
